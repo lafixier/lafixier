@@ -5,6 +5,3 @@
 <img alt="Top Langs" height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lafixier&theme=dracula" />
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafixier&layout=compact&show_icons=true&theme=onedark" />
-
-
-# test
